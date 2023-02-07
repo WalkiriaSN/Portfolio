@@ -1,0 +1,67 @@
+body{
+    background-color:#cad7d8; 
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+
+.profile{
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    
+
+}
+
+header {
+    background-color:#ffe2fe;
+    padding-top: 2%;
+    padding-bottom: 4%;
+    
+}
+
+
+a{
+    text-decoration: none;}
+
+a:link{color: #1d3c3f;}
+a:visited{color: #3f9ba5;}
+a:hover{color: #d07ae0;}
+a:active{color: #1d3c3f;}
+
+
+
+.line {
+    color: #fbbefd;
+    }
+
+
+
+span{
+    background-color: #ffe2fe;
+}
+
+
+
+.list{
+    display:inline-flex;
+    
+   }
+
+
+
+#lang, #courses{
+    text-align: left;
+}
+
+
+
+button{
+
+    background-color: #97ced4;
+    border-color: #f8e3fc;
+}
